@@ -28,8 +28,18 @@ const jobController = {
   },
   getAllJobs: async (req, res) => {
     const { query } = req;
-    const { q, jobType, salaryMin, salaryMax, duration, asc, desc, techStack } =
-      cleanData(query);
+    const {
+      q,
+      location,
+      jobType,
+      salaryMin,
+      salaryMax,
+      duration,
+      asc,
+      desc,
+      techStack,
+    } = cleanData(query);
+    console.log("location", location);
 
     const findParams = {
       ...(q && { title: { $regex: new RegExp(q, "i") } }),
@@ -41,6 +51,7 @@ const jobController = {
         },
       }),
       ...(duration && { duration: { $lt: parseInt(duration) } }),
+      ...(location && { locations: { $in: [].concat(location) } }),
     };
 
     const sortParams = {
