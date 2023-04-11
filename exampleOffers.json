@@ -1,0 +1,1870 @@
+[
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "78d9f4fd-b7c3-4470-867a-b79e29c4ad95"
+    },
+    "disclosedSalary": true,
+    "title": "Frontend Developer",
+    "remote": false,
+    "locations": [
+      "Sydney"
+    ],
+    "description": "Ut quaerat maiores maiores necessitatibus unde at velit ipsum sequi. Nisi dolorem quia qui. Corrupti nihil ipsam. Facere sed ut qui quia quis consectetur blanditiis velit. Tempora tenetur inventore sit et est maxime facere et voluptas. Blanditiis quam rerum est placeat qui molestiae velit.",
+    "techStack": [
+      {
+        "name": "Python",
+        "value": 2
+      },
+      {
+        "name": "Ruby",
+        "value": 2
+      },
+      {
+        "name": "JavaScript",
+        "value": 4
+      },
+      {
+        "name": "Java",
+        "value": 3
+      },
+      {
+        "name": "PHP",
+        "value": 1
+      }
+    ],
+    "companySize": 3139,
+    "seniority": "Executive",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 40,
+    "maxPositions": 2,
+    "dateOfPosting": "2023-03-23T10:08:50.306Z",
+    "deadline": "2023-09-30T19:40:45.588Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "20596f05-006d-459a-8926-59119f0ff02b"
+    },
+    "disclosedSalary": true,
+    "title": "DevOps Engineer",
+    "remote": false,
+    "locations": [
+      "Śląsk",
+      "Wrocław",
+      "Trójmiasto",
+      "Poznań"
+    ],
+    "description": "Eveniet quisquam pariatur nostrum libero eum sapiente dolor. Assumenda voluptatem iure totam qui amet quas ipsa. Quo asperiores magnam rem autem eum autem. At odit ex praesentium consequatur dolores id vero magni voluptatibus. Mollitia neque illo consequuntur est.",
+    "techStack": [
+      {
+        "name": "Java",
+        "value": 4
+      },
+      {
+        "name": "Python",
+        "value": 1
+      }
+    ],
+    "companySize": 4744,
+    "seniority": "Mid-level",
+    "salary": "10236-17913 PLN",
+    "maxApplicants": 65,
+    "maxPositions": 1,
+    "dateOfPosting": "2023-04-09T12:29:03.957Z",
+    "deadline": "2023-11-11T12:09:32.709Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "448ecff0-6018-46b8-92ff-08b29e2fdd31"
+    },
+    "disclosedSalary": true,
+    "title": "Product Manager",
+    "remote": false,
+    "locations": [
+      "London"
+    ],
+    "description": "Omnis aut unde voluptatem dicta dolore aliquam occaecati laudantium. Accusamus eligendi quo error minus.",
+    "techStack": [
+      {
+        "name": "Ruby",
+        "value": 1
+      },
+      {
+        "name": "Java",
+        "value": 1
+      },
+      {
+        "name": "Python",
+        "value": 2
+      },
+      {
+        "name": "JavaScript",
+        "value": 1
+      }
+    ],
+    "companySize": 3178,
+    "seniority": "Junior",
+    "salary": "6681-11290 PLN",
+    "maxApplicants": 83,
+    "maxPositions": 1,
+    "dateOfPosting": "2023-03-27T08:54:24.807Z",
+    "deadline": "2024-03-04T14:28:29.780Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "8db11691-fb58-432b-a80a-22e4c36af6d3"
+    },
+    "disclosedSalary": true,
+    "title": "Mobile Developer",
+    "remote": true,
+    "locations": [
+      "Kraków",
+      "Sydney"
+    ],
+    "description": "Reprehenderit ipsam eum consectetur velit nihil aliquam eos cum. Cumque sit iste molestiae ea vero voluptas quis tempora dolorem. Et ab aut quisquam ut aut vel ullam et. Eum expedita sit repellendus quo.",
+    "techStack": [
+      {
+        "name": "Java",
+        "value": 3
+      },
+      {
+        "name": "JavaScript",
+        "value": 1
+      },
+      {
+        "name": "Ruby",
+        "value": 3
+      },
+      {
+        "name": "Python",
+        "value": 3
+      },
+      {
+        "name": "C#",
+        "value": 3
+      }
+    ],
+    "companySize": 3846,
+    "seniority": "Mid-level",
+    "salary": "10262-16624 PLN",
+    "maxApplicants": 7,
+    "maxPositions": 3,
+    "dateOfPosting": "2023-03-23T21:23:18.038Z",
+    "deadline": "2023-07-21T09:37:09.146Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "23525aa2-beaf-4856-a5b8-152c0cecf382"
+    },
+    "disclosedSalary": true,
+    "title": "Product Manager",
+    "remote": false,
+    "locations": [
+      "Trójmiasto"
+    ],
+    "description": "Qui nisi aliquid et. Nostrum magnam cumque blanditiis ad sit quam distinctio cumque. Dolor quibusdam qui error. Nihil ut incidunt amet. Ipsam ducimus vel asperiores vel ducimus veritatis iure. Labore nemo dicta omnis incidunt sapiente nostrum deleniti reprehenderit quas.",
+    "techStack": [
+      {
+        "name": "C#",
+        "value": 4
+      },
+      {
+        "name": "PHP",
+        "value": 2
+      },
+      {
+        "name": "Python",
+        "value": 2
+      },
+      {
+        "name": "JavaScript",
+        "value": 4
+      }
+    ],
+    "companySize": 3861,
+    "seniority": "Mid-level",
+    "salary": "12321-21192 PLN",
+    "maxApplicants": 91,
+    "maxPositions": 2,
+    "dateOfPosting": "2023-04-09T09:34:58.537Z",
+    "deadline": "2023-07-17T21:04:49.987Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "b4c9567b-21af-4ce2-beed-58a428c9fc63"
+    },
+    "disclosedSalary": true,
+    "title": "Mobile Developer",
+    "remote": false,
+    "locations": [
+      "Śląsk",
+      "Trójmiasto"
+    ],
+    "description": "Saepe pariatur sint cupiditate autem est rem velit dolores et. Quisquam maxime accusamus quos recusandae eum exercitationem illum. In magni et. Placeat necessitatibus sit quo quibusdam sapiente voluptatum aut. Accusamus doloremque corporis ratione.",
+    "techStack": [
+      {
+        "name": "Python",
+        "value": 3
+      },
+      {
+        "name": "Ruby",
+        "value": 4
+      },
+      {
+        "name": "PHP",
+        "value": 3
+      },
+      {
+        "name": "JavaScript",
+        "value": 3
+      }
+    ],
+    "companySize": 1226,
+    "seniority": "Senior",
+    "salary": "20448-34557 PLN",
+    "maxApplicants": 95,
+    "maxPositions": 0,
+    "dateOfPosting": "2023-04-07T11:00:20.812Z",
+    "deadline": "2023-06-08T14:28:35.461Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "20728f0a-3943-40ca-bb5b-ba75f3163f6b"
+    },
+    "disclosedSalary": true,
+    "title": "Frontend Developer",
+    "remote": false,
+    "locations": [
+      "Śląsk",
+      "Kraków"
+    ],
+    "description": "Deserunt ea velit. Ut omnis laborum.",
+    "techStack": [
+      {
+        "name": "JavaScript",
+        "value": 4
+      },
+      {
+        "name": "Ruby",
+        "value": 4
+      },
+      {
+        "name": "Java",
+        "value": 3
+      },
+      {
+        "name": "Python",
+        "value": 5
+      },
+      {
+        "name": "PHP",
+        "value": 4
+      }
+    ],
+    "companySize": 3908,
+    "seniority": "Executive",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 14,
+    "maxPositions": 1,
+    "dateOfPosting": "2023-03-19T04:46:13.046Z",
+    "deadline": "2023-10-28T23:54:23.548Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "0f7589cd-f6ec-4739-b902-e0380d25f13c"
+    },
+    "disclosedSalary": false,
+    "title": "DevOps Engineer",
+    "remote": true,
+    "locations": [
+      "Poznań",
+      "Poznań",
+      "Śląsk",
+      "Trójmiasto"
+    ],
+    "description": "Eveniet aspernatur et deserunt expedita. Dolores qui tenetur quia eum odio quis ducimus.",
+    "techStack": [
+      {
+        "name": "Java",
+        "value": 5
+      },
+      {
+        "name": "Python",
+        "value": 4
+      },
+      {
+        "name": "C#",
+        "value": 5
+      }
+    ],
+    "companySize": 3974,
+    "seniority": "Junior",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 23,
+    "maxPositions": 3,
+    "dateOfPosting": "2023-04-06T12:55:29.846Z",
+    "deadline": "2023-08-26T14:41:42.438Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "f89e63c9-1b09-4031-92de-15e6fb66980d"
+    },
+    "disclosedSalary": true,
+    "title": "Full-Stack Developer",
+    "remote": true,
+    "locations": [
+      "Wrocław"
+    ],
+    "description": "Natus est eveniet sit magnam inventore. Fuga dolores qui unde non voluptatum. Assumenda inventore autem harum aliquid sed vitae cum. Accusamus neque assumenda occaecati dolorum.",
+    "techStack": [
+      {
+        "name": "PHP",
+        "value": 3
+      },
+      {
+        "name": "JavaScript",
+        "value": 1
+      }
+    ],
+    "companySize": 4774,
+    "seniority": "Mid-level",
+    "salary": "10450-14839 PLN",
+    "maxApplicants": 29,
+    "maxPositions": 1,
+    "dateOfPosting": "2023-03-26T00:57:28.440Z",
+    "deadline": "2023-11-16T08:05:31.795Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "c07a6c1c-8b7f-4cc4-98b6-d3d75c1c1421"
+    },
+    "disclosedSalary": true,
+    "title": "Backend Developer",
+    "remote": true,
+    "locations": [
+      "Poznań",
+      "San Francisco",
+      "Kraków"
+    ],
+    "description": "Et aut omnis aut beatae. Sunt optio doloribus. Fuga voluptatem ut.",
+    "techStack": [
+      {
+        "name": "Python",
+        "value": 1
+      },
+      {
+        "name": "Java",
+        "value": 5
+      },
+      {
+        "name": "JavaScript",
+        "value": 5
+      },
+      {
+        "name": "Ruby",
+        "value": 2
+      },
+      {
+        "name": "PHP",
+        "value": 5
+      }
+    ],
+    "companySize": 2130,
+    "seniority": "Executive",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 63,
+    "maxPositions": 3,
+    "dateOfPosting": "2023-03-30T10:13:05.427Z",
+    "deadline": "2023-12-27T12:56:48.547Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "9498cb8c-fc38-49af-8263-a43d2f47fb5e"
+    },
+    "disclosedSalary": true,
+    "title": "Data Scientist",
+    "remote": false,
+    "locations": [
+      "Wrocław",
+      "Kraków",
+      "Śląsk"
+    ],
+    "description": "Animi ipsa suscipit possimus et voluptatem delectus. Vel perferendis illo vel. Et repudiandae at soluta ipsum in excepturi corrupti. Aspernatur est architecto esse natus et. Velit cum ea. Explicabo aut culpa ipsa maxime quo debitis animi iusto magni.",
+    "techStack": [
+      {
+        "name": "Java",
+        "value": 3
+      },
+      {
+        "name": "JavaScript",
+        "value": 4
+      },
+      {
+        "name": "PHP",
+        "value": 4
+      },
+      {
+        "name": "Python",
+        "value": 2
+      }
+    ],
+    "companySize": 205,
+    "seniority": "Senior",
+    "salary": "19474-31158 PLN",
+    "maxApplicants": 79,
+    "maxPositions": 2,
+    "dateOfPosting": "2023-04-02T11:37:14.143Z",
+    "deadline": "2023-10-09T03:54:45.323Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "24647c5b-38a5-48a6-8d1e-6391455f3b6d"
+    },
+    "disclosedSalary": false,
+    "title": "Product Manager",
+    "remote": true,
+    "locations": [
+      "Kraków"
+    ],
+    "description": "Ut aut perferendis. Sapiente eos dolore aut qui quis. Nihil animi minus vitae esse aut rem quibusdam ea in. Magni consequatur et dolores nesciunt voluptas est. Voluptas aut in. Quibusdam dolores modi.",
+    "techStack": [
+      {
+        "name": "JavaScript",
+        "value": 5
+      },
+      {
+        "name": "Java",
+        "value": 1
+      }
+    ],
+    "companySize": 1156,
+    "seniority": "Junior",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 31,
+    "maxPositions": 0,
+    "dateOfPosting": "2023-03-15T16:42:19.688Z",
+    "deadline": "2024-01-05T22:05:13.208Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "92eade8a-25ee-4c99-b9fd-e7b40aa0337e"
+    },
+    "disclosedSalary": false,
+    "title": "Product Manager",
+    "remote": false,
+    "locations": [
+      "Wrocław",
+      "Trójmiasto",
+      "Poznań"
+    ],
+    "description": "Laboriosam recusandae assumenda omnis id corrupti incidunt corporis et consequatur. Deserunt et est. Corrupti placeat laboriosam numquam quos voluptatem aperiam. Non minima occaecati qui. Incidunt ut recusandae dolores.",
+    "techStack": [
+      {
+        "name": "JavaScript",
+        "value": 4
+      },
+      {
+        "name": "Java",
+        "value": 2
+      },
+      {
+        "name": "Python",
+        "value": 5
+      },
+      {
+        "name": "Ruby",
+        "value": 2
+      },
+      {
+        "name": "PHP",
+        "value": 3
+      }
+    ],
+    "companySize": 4358,
+    "seniority": "Senior",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 6,
+    "maxPositions": 3,
+    "dateOfPosting": "2023-04-02T03:23:54.433Z",
+    "deadline": "2024-01-26T14:57:46.058Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "f83500c9-ba15-4ee3-948b-b1b3dd3939c7"
+    },
+    "disclosedSalary": false,
+    "title": "Product Manager",
+    "remote": true,
+    "locations": [
+      "Kraków",
+      "Wrocław",
+      "Trójmiasto",
+      "Wrocław"
+    ],
+    "description": "Nihil omnis sit repudiandae eum ut doloribus rem dolores velit. Ea consequatur est praesentium debitis quidem.",
+    "techStack": [
+      {
+        "name": "Python",
+        "value": 1
+      },
+      {
+        "name": "JavaScript",
+        "value": 5
+      },
+      {
+        "name": "C#",
+        "value": 4
+      },
+      {
+        "name": "Java",
+        "value": 3
+      }
+    ],
+    "companySize": 2583,
+    "seniority": "Mid-level",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 68,
+    "maxPositions": 0,
+    "dateOfPosting": "2023-03-10T23:01:01.459Z",
+    "deadline": "2024-03-07T14:57:55.189Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "3b15d782-0a3b-4e2a-9955-b7c70b8a1cbd"
+    },
+    "disclosedSalary": false,
+    "title": "QA Engineer",
+    "remote": true,
+    "locations": [
+      "Wrocław",
+      "Poznań",
+      "San Francisco"
+    ],
+    "description": "Quia est nihil ut quia nihil. Est voluptate molestias ullam. Laboriosam ab facilis libero alias accusantium laborum. Est aut repellat similique labore ratione qui deserunt. Dolorem totam nisi ut esse.",
+    "techStack": [
+      {
+        "name": "Python",
+        "value": 5
+      },
+      {
+        "name": "Java",
+        "value": 1
+      },
+      {
+        "name": "PHP",
+        "value": 2
+      },
+      {
+        "name": "JavaScript",
+        "value": 5
+      }
+    ],
+    "companySize": 2455,
+    "seniority": "Mid-level",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 84,
+    "maxPositions": 2,
+    "dateOfPosting": "2023-03-19T18:29:55.266Z",
+    "deadline": "2024-03-16T13:25:05.569Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "d6816e5b-6eb9-4f34-81de-7307160a45f0"
+    },
+    "disclosedSalary": false,
+    "title": "Mobile Developer",
+    "remote": false,
+    "locations": [
+      "Wrocław",
+      "Śląsk",
+      "Kraków"
+    ],
+    "description": "Dolor corrupti consequatur dolores qui autem ut magnam necessitatibus. Ducimus esse in deserunt. Occaecati quibusdam non aut sit nisi enim repellat repellat rerum.",
+    "techStack": [
+      {
+        "name": "C#",
+        "value": 5
+      },
+      {
+        "name": "Python",
+        "value": 3
+      }
+    ],
+    "companySize": 1961,
+    "seniority": "Executive",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 49,
+    "maxPositions": 3,
+    "dateOfPosting": "2023-03-21T12:43:51.072Z",
+    "deadline": "2023-04-06T11:52:10.567Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "8fef6918-6a2d-4a2b-8c5b-dc682e7943a0"
+    },
+    "disclosedSalary": true,
+    "title": "Full-Stack Developer",
+    "remote": false,
+    "locations": [
+      "Śląsk",
+      "Poznań",
+      "Poznań"
+    ],
+    "description": "Impedit ex velit consequatur iure. Commodi soluta laborum eveniet enim qui eos. Dolor non est nihil nemo dolores. Natus consectetur tenetur hic.",
+    "techStack": [
+      {
+        "name": "C#",
+        "value": 1
+      },
+      {
+        "name": "Python",
+        "value": 5
+      }
+    ],
+    "companySize": 1630,
+    "seniority": "Executive",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 34,
+    "maxPositions": 2,
+    "dateOfPosting": "2023-03-23T01:52:51.984Z",
+    "deadline": "2023-11-04T02:42:52.358Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "2012447c-0929-4367-b93d-20cad7d334ae"
+    },
+    "disclosedSalary": true,
+    "title": "Frontend Developer",
+    "remote": true,
+    "locations": [
+      "Berlin",
+      "Śląsk",
+      "Trójmiasto"
+    ],
+    "description": "Culpa accusamus soluta officia quo sit minus nam consequuntur porro. Eos repudiandae soluta magni. Blanditiis rem eum ea et quis aut vero fugit tempora. Maxime non voluptas ut odio pariatur aut.",
+    "techStack": [
+      {
+        "name": "Java",
+        "value": 1
+      },
+      {
+        "name": "Python",
+        "value": 1
+      },
+      {
+        "name": "C#",
+        "value": 3
+      },
+      {
+        "name": "JavaScript",
+        "value": 3
+      }
+    ],
+    "companySize": 1612,
+    "seniority": "Junior",
+    "salary": "6003-10385 PLN",
+    "maxApplicants": 97,
+    "maxPositions": 1,
+    "dateOfPosting": "2023-03-23T04:58:19.099Z",
+    "deadline": "2023-09-16T05:03:59.558Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "003b3b6c-3f06-4eaf-8147-318fff348ddf"
+    },
+    "disclosedSalary": true,
+    "title": "Mobile Developer",
+    "remote": false,
+    "locations": [
+      "Poznań",
+      "Trójmiasto",
+      "Śląsk",
+      "Kraków"
+    ],
+    "description": "Enim quidem dolorem et et sed est placeat non aut. Sit repellat sit ea. Facilis soluta exercitationem eveniet. Aut inventore non nemo aut nulla et suscipit quibusdam repellat. Eos sed dolores autem magni magni asperiores voluptatibus.",
+    "techStack": [
+      {
+        "name": "JavaScript",
+        "value": 1
+      },
+      {
+        "name": "Python",
+        "value": 4
+      },
+      {
+        "name": "Ruby",
+        "value": 1
+      },
+      {
+        "name": "Java",
+        "value": 1
+      }
+    ],
+    "companySize": 4710,
+    "seniority": "Executive",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 63,
+    "maxPositions": 2,
+    "dateOfPosting": "2023-04-05T23:04:09.756Z",
+    "deadline": "2023-08-01T18:18:21.906Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "87b52095-3083-4840-a132-2cd1a84fc083"
+    },
+    "disclosedSalary": false,
+    "title": "Mobile Developer",
+    "remote": false,
+    "locations": [
+      "Poznań",
+      "Śląsk"
+    ],
+    "description": "Numquam qui blanditiis ad et alias modi quas vitae voluptatibus. Repellendus cupiditate eius sunt vitae soluta minima. Consequatur laudantium nesciunt sed est molestiae est porro praesentium. Quo necessitatibus dolor cum sed iste iste dolorum.",
+    "techStack": [
+      {
+        "name": "Java",
+        "value": 5
+      },
+      {
+        "name": "Python",
+        "value": 5
+      }
+    ],
+    "companySize": 3212,
+    "seniority": "Executive",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 9,
+    "maxPositions": 0,
+    "dateOfPosting": "2023-04-01T12:24:33.478Z",
+    "deadline": "2023-07-03T18:46:46.597Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "c90e0fb8-12e9-4141-84d0-40e56b86978b"
+    },
+    "disclosedSalary": false,
+    "title": "Data Scientist",
+    "remote": false,
+    "locations": [
+      "Trójmiasto"
+    ],
+    "description": "Veniam ducimus eos adipisci quaerat quos. Amet qui occaecati totam suscipit ipsa impedit inventore laboriosam. Quas qui reprehenderit odit.",
+    "techStack": [
+      {
+        "name": "Python",
+        "value": 5
+      },
+      {
+        "name": "JavaScript",
+        "value": 5
+      }
+    ],
+    "companySize": 4201,
+    "seniority": "Executive",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 67,
+    "maxPositions": 1,
+    "dateOfPosting": "2023-03-31T12:44:14.912Z",
+    "deadline": "2023-07-05T12:03:45.448Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "ca1ea6e8-6374-42ea-9105-fe1cd5479d1c"
+    },
+    "disclosedSalary": false,
+    "title": "DevOps Engineer",
+    "remote": true,
+    "locations": [
+      "Trójmiasto",
+      "Poznań",
+      "Trójmiasto"
+    ],
+    "description": "Qui iste rerum. Sit adipisci rerum vero voluptas magnam eos in aperiam. Omnis dolore quis beatae eius ullam optio modi quis suscipit.",
+    "techStack": [
+      {
+        "name": "Java",
+        "value": 4
+      },
+      {
+        "name": "Python",
+        "value": 3
+      }
+    ],
+    "companySize": 3182,
+    "seniority": "Senior",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 92,
+    "maxPositions": 2,
+    "dateOfPosting": "2023-03-19T00:19:44.078Z",
+    "deadline": "2023-06-20T14:41:15.130Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "9b0c7822-c6d9-48a7-9ffa-aa1261992a09"
+    },
+    "disclosedSalary": false,
+    "title": "QA Engineer",
+    "remote": false,
+    "locations": [
+      "Trójmiasto",
+      "Kraków"
+    ],
+    "description": "Excepturi voluptatem assumenda. Quasi voluptatem similique fuga quia provident et tenetur ea. Sunt aspernatur dolorum ipsa quis doloremque deserunt nihil consequatur. Aut corporis quasi vel voluptatem sunt omnis ut voluptatum. Corporis nihil ut dolorem eos iste atque optio.",
+    "techStack": [
+      {
+        "name": "Ruby",
+        "value": 4
+      },
+      {
+        "name": "C#",
+        "value": 2
+      },
+      {
+        "name": "Python",
+        "value": 1
+      },
+      {
+        "name": "PHP",
+        "value": 2
+      }
+    ],
+    "companySize": 2519,
+    "seniority": "Senior",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 22,
+    "maxPositions": 1,
+    "dateOfPosting": "2023-04-07T15:38:58.376Z",
+    "deadline": "2023-06-03T14:02:20.102Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "414d31ae-3d9e-498e-a3ef-7bce52270e03"
+    },
+    "disclosedSalary": true,
+    "title": "Full-Stack Developer",
+    "remote": false,
+    "locations": [
+      "Trójmiasto",
+      "Kraków",
+      "Trójmiasto",
+      "New York"
+    ],
+    "description": "Distinctio aut voluptate temporibus commodi. Dolores aperiam veniam eum sed.",
+    "techStack": [
+      {
+        "name": "JavaScript",
+        "value": 1
+      },
+      {
+        "name": "Ruby",
+        "value": 1
+      },
+      {
+        "name": "Python",
+        "value": 2
+      }
+    ],
+    "companySize": 2222,
+    "seniority": "Senior",
+    "salary": "20543-31225 PLN",
+    "maxApplicants": 17,
+    "maxPositions": 1,
+    "dateOfPosting": "2023-03-15T09:19:01.992Z",
+    "deadline": "2023-04-14T11:34:26.492Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "7735d3b3-4687-4add-b3af-7b99bf3aed31"
+    },
+    "disclosedSalary": false,
+    "title": "Product Manager",
+    "remote": false,
+    "locations": [
+      "Poznań",
+      "Wrocław",
+      "Śląsk"
+    ],
+    "description": "Velit dolore deleniti deleniti optio sed porro est quam quo. Delectus eum dolorum sed ut quo quis modi. Est beatae perspiciatis quia enim eaque dignissimos eius.",
+    "techStack": [
+      {
+        "name": "Java",
+        "value": 4
+      },
+      {
+        "name": "C#",
+        "value": 3
+      },
+      {
+        "name": "Ruby",
+        "value": 3
+      },
+      {
+        "name": "JavaScript",
+        "value": 2
+      },
+      {
+        "name": "Python",
+        "value": 2
+      }
+    ],
+    "companySize": 1504,
+    "seniority": "Senior",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 38,
+    "maxPositions": 2,
+    "dateOfPosting": "2023-03-24T08:39:48.369Z",
+    "deadline": "2023-06-16T23:43:53.460Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "36b68c5e-8c5b-4b6f-b9c9-f3c58319e778"
+    },
+    "disclosedSalary": true,
+    "title": "Product Manager",
+    "remote": true,
+    "locations": [
+      "Poznań"
+    ],
+    "description": "Doloribus voluptatum qui culpa inventore ducimus et ad repellat. Eum nihil commodi corrupti animi veniam recusandae est sit pariatur.",
+    "techStack": [
+      {
+        "name": "JavaScript",
+        "value": 2
+      },
+      {
+        "name": "Java",
+        "value": 2
+      },
+      {
+        "name": "Python",
+        "value": 1
+      },
+      {
+        "name": "PHP",
+        "value": 4
+      }
+    ],
+    "companySize": 4418,
+    "seniority": "Senior",
+    "salary": "19313-27231 PLN",
+    "maxApplicants": 37,
+    "maxPositions": 1,
+    "dateOfPosting": "2023-03-18T11:33:01.189Z",
+    "deadline": "2024-01-08T16:13:49.159Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "a82dbae4-08c6-496b-bee2-80c3e16b2af6"
+    },
+    "disclosedSalary": false,
+    "title": "Full-Stack Developer",
+    "remote": false,
+    "locations": [
+      "Wrocław"
+    ],
+    "description": "Necessitatibus aut ipsum. Vitae aut eos aperiam ut optio. Vero et dolore cum aut dolor facere et soluta assumenda. Consectetur et dolorem voluptatum soluta voluptates velit id minus dignissimos. Est veritatis doloribus culpa fugit quae at voluptatem.",
+    "techStack": [
+      {
+        "name": "Java",
+        "value": 5
+      },
+      {
+        "name": "JavaScript",
+        "value": 5
+      },
+      {
+        "name": "Python",
+        "value": 1
+      },
+      {
+        "name": "C#",
+        "value": 5
+      }
+    ],
+    "companySize": 1627,
+    "seniority": "Senior",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 20,
+    "maxPositions": 2,
+    "dateOfPosting": "2023-03-18T17:18:19.838Z",
+    "deadline": "2023-08-14T13:01:00.334Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "19e009d0-66ea-4ed7-9274-20d3a82ea2a3"
+    },
+    "disclosedSalary": true,
+    "title": "Backend Developer",
+    "remote": false,
+    "locations": [
+      "Wrocław"
+    ],
+    "description": "Iste totam quidem incidunt quo esse nam. Vero ut beatae ad. Quia quis porro itaque doloremque ad cum.",
+    "techStack": [
+      {
+        "name": "Python",
+        "value": 3
+      },
+      {
+        "name": "Ruby",
+        "value": 5
+      },
+      {
+        "name": "Java",
+        "value": 3
+      },
+      {
+        "name": "PHP",
+        "value": 1
+      },
+      {
+        "name": "JavaScript",
+        "value": 4
+      }
+    ],
+    "companySize": 2861,
+    "seniority": "Senior",
+    "salary": "18219-32065 PLN",
+    "maxApplicants": 66,
+    "maxPositions": 3,
+    "dateOfPosting": "2023-04-07T04:19:31.329Z",
+    "deadline": "2023-07-20T11:21:54.248Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "36cd4e29-c49b-437f-affd-1cf23681f7b4"
+    },
+    "disclosedSalary": false,
+    "title": "DevOps Engineer",
+    "remote": false,
+    "locations": [
+      "Wrocław",
+      "Kraków"
+    ],
+    "description": "Dolore sit error modi est. Quia molestiae fugiat exercitationem. Eum ad quos. Accusamus fugiat nostrum excepturi voluptas. Rem iusto placeat ratione.",
+    "techStack": [
+      {
+        "name": "C#",
+        "value": 5
+      },
+      {
+        "name": "Ruby",
+        "value": 1
+      },
+      {
+        "name": "PHP",
+        "value": 4
+      },
+      {
+        "name": "Python",
+        "value": 1
+      },
+      {
+        "name": "JavaScript",
+        "value": 2
+      }
+    ],
+    "companySize": 2248,
+    "seniority": "Executive",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 41,
+    "maxPositions": 2,
+    "dateOfPosting": "2023-04-01T11:28:18.795Z",
+    "deadline": "2023-09-11T05:53:59.757Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "966a58d1-2e3a-482c-94f2-34d5de54cfc8"
+    },
+    "disclosedSalary": true,
+    "title": "DevOps Engineer",
+    "remote": false,
+    "locations": [
+      "Wrocław"
+    ],
+    "description": "Ut nam aut vitae est optio consequatur doloremque eius. Corporis ut saepe eligendi. Impedit repellat consequatur. Voluptas eum ut. Sed sint ut ut omnis et sed vero. Totam fuga ab voluptatem fugiat voluptatibus.",
+    "techStack": [
+      {
+        "name": "Ruby",
+        "value": 4
+      },
+      {
+        "name": "Java",
+        "value": 3
+      },
+      {
+        "name": "Python",
+        "value": 2
+      },
+      {
+        "name": "JavaScript",
+        "value": 4
+      }
+    ],
+    "companySize": 2707,
+    "seniority": "Senior",
+    "salary": "18439-29686 PLN",
+    "maxApplicants": 67,
+    "maxPositions": 3,
+    "dateOfPosting": "2023-04-02T23:39:07.732Z",
+    "deadline": "2024-03-04T07:43:31.817Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "0cbbbf49-fd2e-4f64-873f-aab2e7f91426"
+    },
+    "disclosedSalary": true,
+    "title": "Full-Stack Developer",
+    "remote": false,
+    "locations": [
+      "Trójmiasto"
+    ],
+    "description": "Ducimus ipsum tenetur quaerat. Modi qui voluptatem.",
+    "techStack": [
+      {
+        "name": "PHP",
+        "value": 4
+      },
+      {
+        "name": "JavaScript",
+        "value": 1
+      }
+    ],
+    "companySize": 1843,
+    "seniority": "Mid-level",
+    "salary": "12010-16934 PLN",
+    "maxApplicants": 61,
+    "maxPositions": 0,
+    "dateOfPosting": "2023-04-07T13:30:07.679Z",
+    "deadline": "2023-11-02T08:16:11.469Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "dd35981d-0b32-4c5f-9d90-0cadb896a4f2"
+    },
+    "disclosedSalary": false,
+    "title": "Mobile Developer",
+    "remote": false,
+    "locations": [
+      "Poznań",
+      "Poznań",
+      "Kraków",
+      "Śląsk"
+    ],
+    "description": "Iusto distinctio illum quibusdam praesentium. Eos aut dolore dicta incidunt. Nobis ratione quas.",
+    "techStack": [
+      {
+        "name": "Java",
+        "value": 2
+      },
+      {
+        "name": "C#",
+        "value": 2
+      },
+      {
+        "name": "JavaScript",
+        "value": 5
+      }
+    ],
+    "companySize": 4056,
+    "seniority": "Senior",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 4,
+    "maxPositions": 1,
+    "dateOfPosting": "2023-03-19T05:56:12.467Z",
+    "deadline": "2023-05-19T20:20:57.127Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "72ce2c1f-b790-4368-83dd-9e5255691143"
+    },
+    "disclosedSalary": false,
+    "title": "QA Engineer",
+    "remote": false,
+    "locations": [
+      "Trójmiasto",
+      "Kraków"
+    ],
+    "description": "Velit dolorem rem est unde delectus ut tempora explicabo laboriosam. Hic rerum soluta qui laboriosam ea deserunt impedit sit. Dolorum dolor nihil officiis voluptatem rem repudiandae voluptatem omnis sed. Reprehenderit error autem itaque nobis. Necessitatibus odio a sed. Nihil voluptas a nihil quia dolores possimus praesentium.",
+    "techStack": [
+      {
+        "name": "JavaScript",
+        "value": 2
+      },
+      {
+        "name": "Java",
+        "value": 1
+      },
+      {
+        "name": "C#",
+        "value": 4
+      },
+      {
+        "name": "Python",
+        "value": 3
+      },
+      {
+        "name": "PHP",
+        "value": 3
+      }
+    ],
+    "companySize": 2621,
+    "seniority": "Junior",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 36,
+    "maxPositions": 0,
+    "dateOfPosting": "2023-03-14T23:04:40.895Z",
+    "deadline": "2023-11-28T05:54:29.342Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "35c26b6c-7bb9-4029-83cb-8d2a810d2304"
+    },
+    "disclosedSalary": false,
+    "title": "DevOps Engineer",
+    "remote": false,
+    "locations": [
+      "Poznań",
+      "Trójmiasto",
+      "Wrocław",
+      "Wrocław"
+    ],
+    "description": "Aut earum excepturi dolor reprehenderit aspernatur veritatis cumque. Reiciendis facere voluptatem numquam. In et molestiae et qui iure quisquam. Sed neque quia.",
+    "techStack": [
+      {
+        "name": "Python",
+        "value": 4
+      },
+      {
+        "name": "Ruby",
+        "value": 2
+      }
+    ],
+    "companySize": 4993,
+    "seniority": "Junior",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 62,
+    "maxPositions": 0,
+    "dateOfPosting": "2023-03-12T02:50:23.977Z",
+    "deadline": "2023-06-13T19:45:17.036Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "cc35ce54-603e-4cad-835b-be27a66626ab"
+    },
+    "disclosedSalary": true,
+    "title": "Product Manager",
+    "remote": true,
+    "locations": [
+      "Kraków"
+    ],
+    "description": "Quia ut voluptates aperiam est ut vel libero nemo asperiores. Placeat sint aut. Et nam iste et accusamus sed asperiores illum.",
+    "techStack": [
+      {
+        "name": "Java",
+        "value": 5
+      },
+      {
+        "name": "Python",
+        "value": 5
+      }
+    ],
+    "companySize": 705,
+    "seniority": "Executive",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 53,
+    "maxPositions": 0,
+    "dateOfPosting": "2023-04-08T17:16:57.629Z",
+    "deadline": "2023-11-09T09:19:48.043Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "695c0fe6-e949-474f-8381-76528cebf3a7"
+    },
+    "disclosedSalary": false,
+    "title": "Product Manager",
+    "remote": true,
+    "locations": [
+      "Kraków",
+      "Śląsk",
+      "Kraków",
+      "Trójmiasto"
+    ],
+    "description": "Omnis iste a placeat quam non. Est et fugiat atque qui quia illo. Possimus sit saepe autem. Quas quas eos officiis commodi qui placeat nam voluptas atque.",
+    "techStack": [
+      {
+        "name": "JavaScript",
+        "value": 3
+      },
+      {
+        "name": "PHP",
+        "value": 1
+      }
+    ],
+    "companySize": 785,
+    "seniority": "Executive",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 93,
+    "maxPositions": 3,
+    "dateOfPosting": "2023-04-01T16:29:21.522Z",
+    "deadline": "2023-08-03T15:49:03.060Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "73aed559-0975-47d5-aaea-c9bf909777f4"
+    },
+    "disclosedSalary": true,
+    "title": "Product Manager",
+    "remote": false,
+    "locations": [
+      "Kraków"
+    ],
+    "description": "Veritatis harum odio sapiente fugiat et neque maiores possimus pariatur. In eum incidunt incidunt exercitationem earum.",
+    "techStack": [
+      {
+        "name": "Python",
+        "value": 3
+      },
+      {
+        "name": "JavaScript",
+        "value": 2
+      },
+      {
+        "name": "C#",
+        "value": 4
+      },
+      {
+        "name": "Java",
+        "value": 1
+      }
+    ],
+    "companySize": 1314,
+    "seniority": "Junior",
+    "salary": "5953-9703 PLN",
+    "maxApplicants": 30,
+    "maxPositions": 2,
+    "dateOfPosting": "2023-03-15T12:37:53.409Z",
+    "deadline": "2023-12-25T23:45:15.814Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "8797cd18-7b0b-48d0-a64b-665b3a50d748"
+    },
+    "disclosedSalary": false,
+    "title": "Data Scientist",
+    "remote": false,
+    "locations": [
+      "Śląsk",
+      "Kraków"
+    ],
+    "description": "Aut ea est molestiae impedit in repudiandae repellendus. Laboriosam consequatur sunt et recusandae optio magnam in et nihil.",
+    "techStack": [
+      {
+        "name": "Python",
+        "value": 5
+      },
+      {
+        "name": "Java",
+        "value": 4
+      },
+      {
+        "name": "JavaScript",
+        "value": 5
+      }
+    ],
+    "companySize": 3431,
+    "seniority": "Mid-level",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 16,
+    "maxPositions": 2,
+    "dateOfPosting": "2023-03-28T23:38:13.467Z",
+    "deadline": "2023-07-26T14:19:39.133Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "458fd708-7374-41bd-bcc1-f1cabe29cd00"
+    },
+    "disclosedSalary": false,
+    "title": "Product Manager",
+    "remote": true,
+    "locations": [
+      "Poznań",
+      "Trójmiasto",
+      "Wrocław",
+      "Śląsk"
+    ],
+    "description": "Totam repellat qui modi eveniet. Nemo voluptatum blanditiis natus quae. Deleniti qui quis animi. Enim commodi ipsa excepturi aspernatur sequi nesciunt minima quisquam.",
+    "techStack": [
+      {
+        "name": "Python",
+        "value": 1
+      },
+      {
+        "name": "Java",
+        "value": 5
+      }
+    ],
+    "companySize": 4490,
+    "seniority": "Mid-level",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 59,
+    "maxPositions": 3,
+    "dateOfPosting": "2023-03-24T23:40:03.060Z",
+    "deadline": "2023-11-11T03:49:44.440Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "4761745d-bdc7-4de8-a023-11f729581123"
+    },
+    "disclosedSalary": false,
+    "title": "Product Manager",
+    "remote": false,
+    "locations": [
+      "Poznań"
+    ],
+    "description": "Velit veritatis nostrum aut dolor. Est eum atque inventore. Qui praesentium provident sit tempore sit tempore laudantium. Dolores qui laborum magni. Et distinctio distinctio repudiandae nam dignissimos odio. Eos suscipit et est et deleniti vitae veniam.",
+    "techStack": [
+      {
+        "name": "PHP",
+        "value": 1
+      },
+      {
+        "name": "Java",
+        "value": 3
+      },
+      {
+        "name": "Python",
+        "value": 1
+      }
+    ],
+    "companySize": 1870,
+    "seniority": "Executive",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 70,
+    "maxPositions": 2,
+    "dateOfPosting": "2023-03-30T14:34:57.215Z",
+    "deadline": "2023-11-23T07:22:05.903Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "1feffb37-57f6-4607-9326-a4cd6eeb0eb1"
+    },
+    "disclosedSalary": false,
+    "title": "Full-Stack Developer",
+    "remote": false,
+    "locations": [
+      "Poznań",
+      "Poznań",
+      "Kraków"
+    ],
+    "description": "Accusamus reprehenderit deserunt sed architecto est commodi. Assumenda hic fugiat quia consequatur. Odio sint tenetur debitis doloremque voluptatum qui.",
+    "techStack": [
+      {
+        "name": "C#",
+        "value": 2
+      },
+      {
+        "name": "Java",
+        "value": 4
+      },
+      {
+        "name": "Ruby",
+        "value": 5
+      },
+      {
+        "name": "JavaScript",
+        "value": 5
+      },
+      {
+        "name": "PHP",
+        "value": 3
+      }
+    ],
+    "companySize": 4060,
+    "seniority": "Executive",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 51,
+    "maxPositions": 2,
+    "dateOfPosting": "2023-03-23T19:33:14.273Z",
+    "deadline": "2024-01-23T11:29:11.904Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "d7e99a47-30a9-49b5-8893-5a56d479d1ae"
+    },
+    "disclosedSalary": true,
+    "title": "Backend Developer",
+    "remote": false,
+    "locations": [
+      "Kraków",
+      "Wrocław",
+      "Wrocław"
+    ],
+    "description": "Sit voluptatum necessitatibus totam perferendis nulla autem voluptate saepe. Eligendi blanditiis perferendis odit. Consequuntur accusantium ea consequatur eaque nisi doloremque. At sed quis eveniet ipsum quis provident. Magnam culpa at ducimus quisquam quis et et aperiam ut. Cum nam qui voluptatibus illo iusto dolorem rem velit ut.",
+    "techStack": [
+      {
+        "name": "JavaScript",
+        "value": 4
+      },
+      {
+        "name": "Python",
+        "value": 5
+      },
+      {
+        "name": "Ruby",
+        "value": 3
+      },
+      {
+        "name": "PHP",
+        "value": 4
+      }
+    ],
+    "companySize": 2361,
+    "seniority": "Executive",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 89,
+    "maxPositions": 3,
+    "dateOfPosting": "2023-03-31T00:47:54.019Z",
+    "deadline": "2023-11-09T15:33:23.580Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "95e6a00b-0350-4fa2-8c72-155b20a3b24a"
+    },
+    "disclosedSalary": true,
+    "title": "DevOps Engineer",
+    "remote": false,
+    "locations": [
+      "Śląsk",
+      "Kraków",
+      "Śląsk"
+    ],
+    "description": "Nihil aliquid dolorum velit. Ratione fugit sed ut velit. Voluptatem delectus quo voluptatibus enim nihil. Atque ipsam delectus dolor dolorem error nulla. Rem iste quia fuga omnis iure et sunt earum illo.",
+    "techStack": [
+      {
+        "name": "JavaScript",
+        "value": 3
+      },
+      {
+        "name": "Java",
+        "value": 5
+      },
+      {
+        "name": "Ruby",
+        "value": 5
+      },
+      {
+        "name": "Python",
+        "value": 3
+      }
+    ],
+    "companySize": 1062,
+    "seniority": "Junior",
+    "salary": "5364-7938 PLN",
+    "maxApplicants": 17,
+    "maxPositions": 2,
+    "dateOfPosting": "2023-04-06T00:48:36.743Z",
+    "deadline": "2023-11-07T06:38:51.685Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "5f2b8de3-a5fc-4f82-a1ce-a3a81de7273b"
+    },
+    "disclosedSalary": false,
+    "title": "Mobile Developer",
+    "remote": true,
+    "locations": [
+      "Trójmiasto",
+      "Kraków"
+    ],
+    "description": "Itaque libero repudiandae repellendus excepturi quibusdam ut et. Aspernatur id fugiat non.",
+    "techStack": [
+      {
+        "name": "PHP",
+        "value": 5
+      },
+      {
+        "name": "JavaScript",
+        "value": 2
+      },
+      {
+        "name": "Ruby",
+        "value": 4
+      },
+      {
+        "name": "Python",
+        "value": 3
+      }
+    ],
+    "companySize": 2177,
+    "seniority": "Senior",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 90,
+    "maxPositions": 3,
+    "dateOfPosting": "2023-04-03T14:02:19.796Z",
+    "deadline": "2023-08-05T10:04:59.427Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "f9c1bbb9-437c-4b92-ae7f-8abf382a69e6"
+    },
+    "disclosedSalary": false,
+    "title": "Frontend Developer",
+    "remote": false,
+    "locations": [
+      "Poznań",
+      "Śląsk",
+      "Poznań"
+    ],
+    "description": "Eos iusto eos magni voluptatibus dolorem. Aut quia occaecati saepe error voluptates omnis eaque. Nobis quas molestiae quas saepe facilis. Sit facilis quis modi totam sint nisi quas. Magnam cumque voluptas totam incidunt sed et accusamus. Molestias hic dignissimos assumenda.",
+    "techStack": [
+      {
+        "name": "C#",
+        "value": 4
+      },
+      {
+        "name": "PHP",
+        "value": 4
+      },
+      {
+        "name": "JavaScript",
+        "value": 3
+      }
+    ],
+    "companySize": 101,
+    "seniority": "Senior",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 86,
+    "maxPositions": 3,
+    "dateOfPosting": "2023-03-26T17:47:15.073Z",
+    "deadline": "2023-10-03T23:41:38.396Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "305f2757-7770-4a98-b84f-bd28a483e25f"
+    },
+    "disclosedSalary": true,
+    "title": "Product Manager",
+    "remote": true,
+    "locations": [
+      "Poznań",
+      "Kraków"
+    ],
+    "description": "Sed libero quod nam ut aliquam illum accusantium hic doloribus. Autem voluptatem labore commodi est non error. At voluptatem et molestias voluptatem voluptates.",
+    "techStack": [
+      {
+        "name": "JavaScript",
+        "value": 2
+      },
+      {
+        "name": "C#",
+        "value": 4
+      },
+      {
+        "name": "Ruby",
+        "value": 1
+      }
+    ],
+    "companySize": 1136,
+    "seniority": "Executive",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 5,
+    "maxPositions": 3,
+    "dateOfPosting": "2023-04-06T23:31:08.082Z",
+    "deadline": "2023-05-23T09:03:55.440Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "91009a62-c36b-492b-848c-dae59d42e4d3"
+    },
+    "disclosedSalary": false,
+    "title": "Product Manager",
+    "remote": false,
+    "locations": [
+      "Trójmiasto"
+    ],
+    "description": "Ex ut delectus. Itaque velit molestias et cum et. Dolorem quam excepturi provident temporibus eaque.",
+    "techStack": [
+      {
+        "name": "Ruby",
+        "value": 5
+      },
+      {
+        "name": "C#",
+        "value": 4
+      }
+    ],
+    "companySize": 4042,
+    "seniority": "Junior",
+    "salary": "Undisclosed Salary",
+    "maxApplicants": 38,
+    "maxPositions": 0,
+    "dateOfPosting": "2023-03-31T00:33:37.743Z",
+    "deadline": "2023-05-06T13:52:39.763Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "addbb418-287f-4fc9-b118-5aefe2b0ce3e"
+    },
+    "disclosedSalary": true,
+    "title": "Mobile Developer",
+    "remote": false,
+    "locations": [
+      "Śląsk",
+      "Śląsk",
+      "Kraków"
+    ],
+    "description": "Qui quo modi ut quas modi magni voluptatum quo quam. Quod sed eligendi ipsam qui unde iste voluptatem tenetur.",
+    "techStack": [
+      {
+        "name": "JavaScript",
+        "value": 5
+      },
+      {
+        "name": "Ruby",
+        "value": 2
+      },
+      {
+        "name": "Python",
+        "value": 4
+      }
+    ],
+    "companySize": 3810,
+    "seniority": "Senior",
+    "salary": "20957-37722 PLN",
+    "maxApplicants": 4,
+    "maxPositions": 3,
+    "dateOfPosting": "2023-03-16T12:38:23.533Z",
+    "deadline": "2023-04-16T16:30:32.041Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "6f2162a2-f46d-4203-b134-6bea8581fdb1"
+    },
+    "disclosedSalary": true,
+    "title": "Full-Stack Developer",
+    "remote": false,
+    "locations": [
+      "Wrocław",
+      "Wrocław",
+      "Poznań",
+      "Śląsk"
+    ],
+    "description": "Repellat deserunt eum sunt error temporibus. Consequatur voluptatem praesentium ad dolores iste. Voluptatem amet qui dolores ut mollitia. In ducimus omnis explicabo. Quis unde nobis quam et suscipit id optio. Placeat ab rerum reiciendis reprehenderit ipsa.",
+    "techStack": [
+      {
+        "name": "Java",
+        "value": 5
+      },
+      {
+        "name": "Ruby",
+        "value": 2
+      },
+      {
+        "name": "JavaScript",
+        "value": 5
+      },
+      {
+        "name": "PHP",
+        "value": 3
+      },
+      {
+        "name": "Python",
+        "value": 3
+      }
+    ],
+    "companySize": 3544,
+    "seniority": "Junior",
+    "salary": "5559-9283 PLN",
+    "maxApplicants": 30,
+    "maxPositions": 0,
+    "dateOfPosting": "2023-03-23T17:35:25.147Z",
+    "deadline": "2023-04-04T18:40:57.862Z"
+  },
+  {
+    "user": {
+      "type": "recruiter",
+      "_id": "d0dde756-aa81-4775-b1e0-132413d8b888"
+    },
+    "disclosedSalary": true,
+    "title": "DevOps Engineer",
+    "remote": true,
+    "locations": [
+      "Śląsk"
+    ],
+    "description": "Assumenda repellendus cupiditate consequatur facere quo nemo nisi sit voluptas. Sapiente ut non. Consequuntur sit qui. Velit quae officiis consectetur et et rerum veniam et.",
+    "techStack": [
+      {
+        "name": "Python",
+        "value": 4
+      },
+      {
+        "name": "JavaScript",
+        "value": 5
+      },
+      {
+        "name": "Java",
+        "value": 2
+      },
+      {
+        "name": "C#",
+        "value": 4
+      }
+    ],
+    "companySize": 4699,
+    "seniority": "Mid-level",
+    "salary": "12787-20714 PLN",
+    "maxApplicants": 19,
+    "maxPositions": 2,
+    "dateOfPosting": "2023-04-06T05:58:14.895Z",
+    "deadline": "2024-03-14T22:44:19.064Z"
+  }
+]
