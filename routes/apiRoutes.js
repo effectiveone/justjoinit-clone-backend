@@ -18,7 +18,7 @@ router.get("/alljobs", JobController.getAllJobs);
 router.get("/jobs", jwtAuth, JobController.getAllTypeJobs);
 
 // to get info about a particular job
-router.get("/jobs/:id", jwtAuth, JobController.selectedJob);
+router.get("/jobs/:id", JobController.selectedJob);
 
 // to update info of a particular job
 router.put("/jobs/:id", jwtAuth, JobController.updateParticularJob);
