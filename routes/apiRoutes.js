@@ -12,10 +12,7 @@ const RatingController = require("../controllers/ratingController");
 router.post("/jobs", jwtAuth, JobController.addJob);
 
 // to get all avaible  jobs
-router.get("/alljobs", JobController.getAllJobs);
-
-// to get all the jobs [pagination] [for recruiter personal and for everyone]
-router.get("/jobs", jwtAuth, JobController.getAllTypeJobs);
+router.get("/jobs", JobController.getAllJobs);
 
 // to get info about a particular job
 router.get("/jobs/:id", JobController.selectedJob);

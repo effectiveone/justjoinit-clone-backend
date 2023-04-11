@@ -28,7 +28,7 @@ const jobController = {
   },
   getAllJobs: async (req, res) => {
     const { query } = req;
-    const { q, jobType, salaryMin, salaryMax, duration, asc, desc } =
+    const { q, jobType, salaryMin, salaryMax, duration, asc, desc, techStack } =
       cleanData(query);
 
     const findParams = {
@@ -48,58 +48,28 @@ const jobController = {
       ...(desc && Object.fromEntries([].concat(desc).map((key) => [key, -1]))),
     };
 
-    const pipeline = [
+    let pipeline = [
       { $match: findParams },
       ...(Object.keys(sortParams).length > 0 ? [{ $sort: sortParams }] : []),
     ];
+
+    if (techStack) {
+      pipeline = [
+        ...pipeline,
+        {
+          $match: {
+            "techStack.name": {
+              $in: Array.isArray(techStack) ? techStack : [techStack],
+            },
+          },
+        },
+      ];
+    }
 
     try {
       const jobs = await Job.aggregate(pipeline);
+
       res.json(jobs);
-    } catch (err) {
-      res.status(400).json(err);
-    }
-  },
-  getAllTypeJobs: async (req, res) => {
-    const { user, query } = req;
-    const { myjobs, q, jobType, salaryMin, salaryMax, duration, asc, desc } =
-      cleanData(query);
-
-    const findParams = {
-      ...(user.type === "recruiter" && myjobs && { userId: user._id }),
-      ...(q && { title: { $regex: new RegExp(q, "i") } }),
-      ...(jobType && { jobType: { $in: [].concat(jobType) } }),
-      ...((salaryMin || salaryMax) && {
-        salary: {
-          ...(salaryMin && { $gte: parseInt(salaryMin) }),
-          ...(salaryMax && { $lte: parseInt(salaryMax) }),
-        },
-      }),
-      ...(duration && { duration: { $lt: parseInt(duration) } }),
-    };
-
-    const sortParams = {
-      ...(asc && Object.fromEntries([].concat(asc).map((key) => [key, 1]))),
-      ...(desc && Object.fromEntries([].concat(desc).map((key) => [key, -1]))),
-    };
-
-    const pipeline = [
-      {
-        $lookup: {
-          from: "recruiterinfos",
-          localField: "userId",
-          foreignField: "userId",
-          as: "recruiter",
-        },
-      },
-      { $unwind: "$recruiter" },
-      { $match: findParams },
-      ...(Object.keys(sortParams).length > 0 ? [{ $sort: sortParams }] : []),
-    ];
-
-    try {
-      const posts = await Job.aggregate(pipeline);
-      res.json(posts);
     } catch (err) {
       res.status(400).json(err);
     }
